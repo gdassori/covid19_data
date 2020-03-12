@@ -1,0 +1,31 @@
+CountryOther,Total Cases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,SeriousCritical
+China,72440,1892,1870,100,12994,11741
+Diamond Princess,542,88,,,17,20
+Singapore,81,4,,,29,4
+Japan,74,8,1,,20,4
+Hong Kong,62,2,1,,2,7
+Thailand,35,,,,17,2
+S. Korea,31,1,,,12,
+Taiwan,22,,1,,2,
+Malaysia,22,,,,11,
+Germany,16,,,,9,
+Vietnam,16,,,,7,
+Australia,15,,,,10,
+USA,15,,,,3,
+France,12,,1,,5,
+Macao,10,,,,5,
+U.A.E.,9,,,,3,1
+U.K.,9,,,,8,
+Canada,8,,,,1,
+Philippines,3,,1,,2,
+Italy,3,,,,,2
+India,3,,,,3,
+Russia,2,,,,2,
+Spain,2,,,,2,
+Egypt,1,,,,,
+Cambodia,1,,,,1,
+Sweden,1,,,,,
+Nepal,1,,,,1,
+Belgium,1,,,,1,
+Sri Lanka,1,,,,1,
+Finland,1,,,,1,
