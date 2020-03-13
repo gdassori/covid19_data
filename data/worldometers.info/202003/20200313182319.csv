@@ -1,18 +1,18 @@
 Country/Other,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Serious/Critical,TotCases/1M pop
-China,80/815,22,3/177,8,64/152,13/486,4/020,56.1
-Italy,17/660,2/547,1/266,250,1/439,14/955,1/328,292.1
-Iran,11/364,1/289,514,85,3/529,7/321,,135.3
-S. Korea,7/979,110,71,5,510,7/398,93,155.6
-Spain,4/334,1/188,122,36,193,4/019,190,92.7
-Germany,3/481,736,8,2,46,3/427,9,41.5
-France,2/876,,61,,12,2/803,129,44.1
-USA,1/873,176,41,,31,1/801,10,5.7
-Switzerland,1/137,269,9,2,4,1/124,,131.4
+China,80815,22,3177,8,64152,13486,4020,56.1
+Italy,17660,2547,1266,250,1439,14955,1328,292.1
+Iran,11364,1289,514,85,3529,7321,,135.3
+S. Korea,7979,110,71,5,510,7398,93,155.6
+Spain,4334,1188,122,36,193,4019,190,92.7
+Germany,3481,736,8,2,46,3427,9,41.5
+France,2876,,61,,12,2803,129,44.1
+USA,1873,176,41,,31,1801,10,5.7
+Switzerland,1137,269,9,2,4,1124,,131.4
 Norway,930,130,1,,1,928,27,171.5
 Sweden,814,127,1,,1,812,2,80.6
 Netherlands,804,190,10,5,2,792,1,46.9
 Denmark,801,127,,,1,800,2,138.3
-UK,798,208,11,1,18,769,20,11.8
+UK,798,208,10,,18,770,20,11.8
 Japan,701,10,19,,118,564,29,5.5
 Diamond Princess,696,,7,,325,364,32,
 Belgium,559,160,3,,1,555,2,48.2
@@ -95,44 +95,3 @@ Paraguay,6,,,,,6,1,0.8
 Dominican Republic,5,,,,,5,,0.5
 New Zealand,5,,,,,5,,1.0
 Sri Lanka,5,2,,,1,4,,0.2
-Runion,5,1,,,,5,,
-Turkey,5,4,,,,5,,0.1
-Kazakhstan,4,4,,,,4,,0.2
-Liechtenstein,4,,,,,4,,
-Ukraine,3,,1,1,,2,,0.1
-Bangladesh,3,,,,1,2,,
-Bolivia,3,,,,,3,,0.3
-Channel Islands,3,,,,,3,,
-Cuba,3,,,,,3,,0.3
-Faeroe Islands,3,1,,,,3,,
-French Polynesia,3,2,,,,3,,
-Martinique,3,,,,,3,,
-Monaco,2,,,,,2,,
-Nigeria,2,,,,,2,,
-Burkina Faso,2,,,,,2,,0.1
-Cameroon,2,,,,,2,,0.1
-DRC,2,1,,,,2,,
-Ghana,2,,,,,2,,0.1
-Honduras,2,,,,,2,,0.2
-Saint Martin,2,,,,,2,,
-Guyana,1,,1,,,0,,
-Sudan,1,1,1,1,,0,,
-Andorra,1,,,,,1,,
-Jordan,1,,,,1,0,,0.1
-Nepal,1,,,,1,0,,
-Antigua and Barbuda,1,1,,,,1,,
-Bhutan,1,,,,,1,,
-Cayman Islands,1,1,,,,1,,
-Ivory Coast,1,,,,,1,,
-Ethiopia,1,1,,,,1,,
-Gabon,1,1,,,,1,,0.4
-Gibraltar,1,,,,1,0,,
-Guadeloupe,1,1,,,,1,,
-Guinea,1,1,,,,1,,0.1
-Vatican City,1,,,,,1,,
-Kenya,1,1,,,,1,,
-Mongolia,1,,,,,1,,0.3
-St. Barth,1,,,,,1,,
-St. Vincent Grenadines,1,,,,,1,,
-Togo,1,,,,,1,,0.1
-Trinidad and Tobago,1,,,,,1,,0.7
