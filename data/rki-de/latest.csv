@@ -1,5 +1,5 @@
 State,Confirmed,Deaths
-Baden-Wrttemberg,35272,0
+Baden-Wrttemberg**,35272,0
 Bayern,47843,0
 Berlin,7804,0
 Brandenburg,3388,0
@@ -8,11 +8,11 @@ Hamburg,5163,0
 Hessen,10575,0
 "Mecklenburg-
 Vorpommern",792,0
-Niedersachsen,13136,0
+Niedersachsen**,13136,0
 Nordrhein-Westfalen,40921,0
 Rheinland-Pfalz,6907,0
 Saarland,2778,0
-Sachsen,5408,0
+Sachsen**,5408,0
 Sachsen-Anhalt,1842,0
 Schleswig-Holstein,3134,0
 Thringen,3214,0
